@@ -123,7 +123,7 @@ curl http://localhost:8080/api/products/abc
 
 ---
 
-## 5. Screenshots (to be attached)
+## 5. Screenshots
 
 * Consul UI showing both services registered and healthy.
 * Postman/cURL requests hitting the gateway.
