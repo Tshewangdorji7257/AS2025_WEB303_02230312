@@ -200,6 +200,7 @@ Include the following in your submission:
 * Identified and resolved inter-service communication issues.
 * Implemented **resilience patterns** to improve reliability and fault tolerance.
 
+
 ---
 
 ## Conclusion
