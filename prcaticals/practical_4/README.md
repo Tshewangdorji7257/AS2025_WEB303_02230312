@@ -128,7 +128,7 @@ kubectl apply -f kong-ingress.yaml -n student-cafe
 minikube service -n student-cafe kong-kong-proxy --url
 ```
 
-Open the provided URL in your browser to view the **Student Cafe UI**.
+Open the provided URL in browser to view the **Student Cafe UI**.
 
 ---
 
@@ -177,8 +177,6 @@ These patterns were implemented using middleware logic within the Go microservic
 ---
 
 ## Screenshots
-
-Include the following in your submission:
 
 1. **Frontend Screenshot:** Food menu and successful order placement.
 ![alt text](<assets/Screenshot 2025-10-03 222422.png>)
